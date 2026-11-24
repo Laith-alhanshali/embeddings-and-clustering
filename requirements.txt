@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+matplotlib
+plotly
+umap-learn
+sentence-transformers
+torch
+torchvision
+timm
+selenium
+webdriver-manager
+jupyter
